@@ -1,0 +1,43 @@
+html {
+  display: inline-block;
+  font-family: "aktiv-grotesk", sans-serif;
+}
+
+.green {
+  background-color: #cbfed5;
+}
+
+.grey {
+  background-color: #f0f0f0;
+}
+
+.dull-green {
+  background-color: #dbe7d3;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.btn-green {
+  background-color: #cbfed5;
+  color: black;
+  border: none;
+}
+
+.btn-white {
+  background-color: #e7e2e2;
+  color: black;
+  border: none;
+}
+
+.btn-dull-green {
+  background-color: #dbe7d3;
+  color: black;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
