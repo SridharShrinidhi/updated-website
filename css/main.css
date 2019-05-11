@@ -1,22 +1,10 @@
+:root {
+  --color-primary: #ffffff;
+}
+
 html {
   display: inline-block;
   font-family: "aktiv-grotesk", sans-serif;
-}
-
-.green {
-  background-color: #cbfed5;
-}
-
-.grey {
-  background-color: #f0f0f0;
-}
-
-.dull-green {
-  background-color: #dbe7d3;
-}
-
-.underline {
-  text-decoration: underline;
 }
 
 .btn-green {
@@ -44,4 +32,15 @@ a {
 
 .height {
   max-height: 100vh;
+}
+
+.bg-image1 {
+  background-image: url('../images/smart-meal-main.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-image {
+  max-height: 100vh;
+  min-height: 100vh;
 }
