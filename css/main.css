@@ -8,7 +8,7 @@ html {
 }
 
 .btn-green {
-  background-color: #cbfed5;
+  background-color: #e4fdda;
   color: black;
   border: none;
 }
@@ -25,22 +25,21 @@ html {
   border: none;
 }
 
+.bg-green {
+  background-color: #e4fdda;
+  color: black;
+
+}
+
+.pink {
+  color: #e76d6d;
+}
+
 a {
   text-decoration: none;
   color: #000;
 }
-
-.height {
+/*
+.image {
   max-height: 100vh;
-}
-
-.bg-image1 {
-  background-image: url('../images/smart-meal-main.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.main-image {
-  max-height: 100vh;
-  min-height: 100vh;
-}
+} */
