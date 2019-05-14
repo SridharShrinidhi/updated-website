@@ -13,6 +13,13 @@ html {
   border: none;
 }
 
+.btn-pink {
+  background-color: #e86d6d;
+  color: black;
+  border: none;
+}
+
+
 .btn-white {
   background-color: #e7e2e2;
   color: black;
@@ -28,7 +35,10 @@ html {
 .bg-green {
   background-color: #e4fdda;
   color: black;
+}
 
+.current {
+  color: #e86d6d;
 }
 
 .pink {
@@ -39,7 +49,7 @@ a {
   text-decoration: none;
   color: #000;
 }
-/*
-.image {
-  max-height: 100vh;
-} */
+
+.bg-green {
+  background-color: #e4fdda;
+}
